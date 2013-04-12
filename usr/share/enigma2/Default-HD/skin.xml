@@ -1569,8 +1569,8 @@
     <widget backgroundColor="secondBG" font="Regular;20" halign="right" position="940,35" render="Label" size="270,50" source="global.CurrentTime" transparent="1" valign="center" zPosition="1">
       <convert type="ClockToText">Format:%a %d. %b   %H:%M</convert>
     </widget>
-    <eLabel backgroundColor="background" font="Regular;21" position="570,120" text="MiXos Image" size="580,25" transparent="1" />
-    <eLabel backgroundColor="background" font="Regular;21" position="570,160" text="http://www.mixos-support.com" size="580,25" transparent="1" />
+    <eLabel backgroundColor="background" font="Regular;21" position="570,120" text="AXAS Support Image" size="580,25" transparent="1" />
+    <eLabel backgroundColor="background" font="Regular;21" position="570,160" text="http://www.axas-support.com" size="580,25" transparent="1" />
     <widget backgroundColor="background" font="Regular;21" position="570,200" render="Label" size="580,25" source="EnigmaVersion" transparent="1" />
     <widget backgroundColor="background" font="Regular;21" position="570,240" render="Label" size="580,25" source="ImageVersion" transparent="1" />
     <widget backgroundColor="background" font="Regular;21" position="570,280" render="Label" size="580,25" source="FPVersion" transparent="1" />
